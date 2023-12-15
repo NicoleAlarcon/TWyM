@@ -3,7 +3,7 @@ var estatura = 1.71
 let peso = 60
 
 //Constante que no pueden cambiar
-const nombre = "Victor"
+const nombre = "Nicole"
 
 //OTROS EJEMPLOS
 //Declarando las Variables
@@ -11,11 +11,11 @@ var edad
 let ciudad
 
 //Inicializando las Variables
-edad = 29
+edad = 20
 ciudad = "Osorno"
 
 //Declaración e Inicialización de una Variable
-const apellido = "Saldivia"
+const apellido = "Alarcón"
 
 
 //Concatenando Variables de tipo String
